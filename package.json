@@ -1,0 +1,24 @@
+{
+  "name": "webpack_fullstack_react_project_fb_dh",
+  "version": "1.0.0",
+  "description": "Project Web FB Auto Tools ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhduccntt/webpack_fullstack_react_project_fb_DH.git"
+  },
+  "keywords": [
+    "fullstack",
+    "react",
+    "node"
+  ],
+  "author": "HuynhDucIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynhduccntt/webpack_fullstack_react_project_fb_DH/issues"
+  },
+  "homepage": "https://github.com/huynhduccntt/webpack_fullstack_react_project_fb_DH#readme"
+}
